@@ -20,6 +20,8 @@ This project involves building a Morse Code Translator that allows users to inpu
 
 ## Demo
 
+![image](https://github.com/user-attachments/assets/302c198d-6fbe-45b0-ad0a-36cd39392181)
+
 ![demo](https://github.com/user-attachments/assets/700aff15-666d-4e7f-bfb1-a46ae5cf9022)
 
 https://github.com/user-attachments/assets/9eb56f95-ae27-449c-8b66-d4351d597060
